@@ -4,7 +4,7 @@
 
     $ sudo apt install ros-melodic-industrial-core
 
-    $ cd $CATKIN_WS
+    $ cd CATKIN_WS
 
     $ catkin build
 
