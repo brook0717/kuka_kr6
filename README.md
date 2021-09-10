@@ -3,7 +3,10 @@ set up
 $ sudo apt install ros-melodic-industrial-core
 
 $ cd $CATKIN_WS
+
 $ catkin build
+
+
 
 Using Moveit! together with Gazebo Simulator
 Bring the robot model into gazebo and load the ros_control controllers: 
