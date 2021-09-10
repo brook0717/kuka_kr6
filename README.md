@@ -1,6 +1,6 @@
 # kuka_kr6
 
-**set up**
+**setup**
 
     $ sudo apt install ros-melodic-industrial-core
 
